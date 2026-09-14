@@ -1,0 +1,8 @@
+path: "/mnt/c/Users/Jeongmin Cho/Desktop/Git Repository/Thesis/WiSARD_Multi_Modal_Sample/VIS_culled"       
+train: train/images                
+val: valid/images                   
+test: test/images                   
+
+nc: 1                         
+names:
+  0: person
